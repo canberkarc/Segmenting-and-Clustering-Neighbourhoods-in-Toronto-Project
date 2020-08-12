@@ -1,6 +1,6 @@
 # Segmenting-and-Clustering-Neighbourhoods-in-Toronto-Project
 
-### Important : Maps in the notebook can be seen from photos in repo or by running the notebook on Jupyter Notebook
+### !Important : Maps in the notebook can be seen from photos in repo or by running the notebook on Jupyter Notebook
 
 #### This project's data is scraped from wikipedia (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
 #### Foursquare API is used to explore neighborhoods in Toronto 
